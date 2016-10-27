@@ -1,4 +1,4 @@
-//20161027KCH
+//20161027 6:20 KCH
 package com.example;
 import com.example.Stack;
 

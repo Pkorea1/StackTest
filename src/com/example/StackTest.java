@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-//20161027KCH
-=======
-//20161027 0609 KCH
->>>>>>> 102e33ba9a2fc6c6bead30dd88a4c3a51d6fb6d4
+
 package com.example;
 import com.example.Stack;
 
